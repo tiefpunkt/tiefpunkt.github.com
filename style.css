@@ -23,7 +23,7 @@ body {
 }
 
 #content {
-	background: #ccc;
+	background: #fff;
 	color: #333;
 	padding: 10px 10px 15px 10px;
 	border-bottom-left-radius: 15px;
@@ -41,10 +41,15 @@ p {
 }
 
 h2 {
-	margin: 10px 0 5px 0;
+	margin: 15px 0 10px 0;
 	font-size: 1.4em;
 	border-top: 3px solid #aaa;
 }
+
+h3 {
+	margin: 10px 0 2px 0;
+}
+
 a, a:visited {
 	color: #484866;
 }
