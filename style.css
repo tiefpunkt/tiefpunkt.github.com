@@ -7,7 +7,6 @@ body {
 #box {
 	width: 600px;
 	margin: 40px auto 0 auto;
-
 }
 
 #header {
@@ -20,6 +19,9 @@ body {
 	border-top-right-radius: 15px;
 	-moz-border-radius-topleft: 15px;
 	-moz-border-radius-topright: 15px;
+	-moz-box-shadow: 0px 0px 15px #999;
+	-webkit-box-shadow: 0px 0px 15px #999;
+	box-shadow: 0px 0px 15px #999;
 }
 
 #content {
@@ -30,6 +32,9 @@ body {
 	border-bottom-right-radius: 15px;
 	-moz-border-radius-bottomleft: 15px;
 	-moz-border-radius-bottomright: 15px;
+	-moz-box-shadow: 0px 0px 15px #999;
+        -webkit-box-shadow: 0px 0px 15px #999;
+        box-shadow: 0px 0px 15px #999;
 }
 
 p { 
